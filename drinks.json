@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Coke",
+    "cost": 25,
+    "inventory": 10
+  },
+  {
+    "name": "Pepsi",
+    "cost": 35,
+    "inventory": 10
+  },
+  {
+    "name": "Juice",
+    "cost": 45,
+    "inventory": 10
+  },
+  {
+    "name": "Energy",
+    "cost": 55,
+    "inventory": 10
+  }
+]

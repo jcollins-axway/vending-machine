@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Milky Way",
+    "cost": 25,
+    "inventory": 10
+  },
+  {
+    "name": "Snickers",
+    "cost": 35,
+    "inventory": 10
+  },
+  {
+    "name": "Skittles",
+    "cost": 45,
+    "inventory": 10
+  },
+  {
+    "name": "Sour Path Kids",
+    "cost": 55,
+    "inventory": 10
+  }
+]
